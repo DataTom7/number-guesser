@@ -1,1 +1,2 @@
-# number-guesser - Basic Javascript Project by CodeCademy
+# number-guesser
+Basic Javascript Project by CodeCademy
